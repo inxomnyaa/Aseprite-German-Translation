@@ -1,12 +1,12 @@
 {
   "name": "language-german",
   "displayName": "Language - German",
-  "description": "Deutsche Übersetzung von Dotheflopboy",
+  "description": "Offizielle Deutsche Übersetzung von Aseprite via Weblate",
   "version": "1.0",
-  "publisher": "Dotheflopboy",
+  "publisher": "Weblate",
   "author": {
-    "name": "Dotheflopboy",
-    "url": "https://github.com/dotheflopboy"
+    "name": "inxomnyaa",
+    "url": "https://hosted.weblate.org/download/aseprite/aseprite/de/"
   },
   "categories": [
     "Languages"
@@ -15,7 +15,7 @@
     "languages": [
       {
         "id": "de",
-        "path": "./de.ini",
+        "path": "./aseprite-aseprite-de.ini",
         "displayName": "Deutsch"
       }
     ]
