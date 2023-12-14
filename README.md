@@ -1,10 +1,5 @@
-# Aseprite-German-Translation
-Eine deutsche Übersetzung der Aseprite-Software.
-
-![Aseprite-German-Translation-Vorschau](https://github.com/inxomnyaa/Aseprite-German-Translation/blob/main/image/de.png)
-**Aseprite in Deutsch**
-
-![Aseprite-German-Translation-Vorschau](https://github.com/inxomnyaa/Aseprite-German-Translation/blob/main/image/2023-12-13_234021.png)
+# <img alt="Aseprite German Translation Preview" src="https://github.com/inxomnyaa/Aseprite-German-Translation/blob/main/image/de.png" height="100px" width="auto"> Aseprite German Translation [![Translation Status](https://hosted.weblate.org/widget/aseprite/aseprite/de/svg-badge.svg?native=1)](https://hosted.weblate.org/engage/aseprite/-/de/)
+![Aseprite German Translation Preview](https://github.com/inxomnyaa/Aseprite-German-Translation/blob/main/image/2023-12-13_234021.png)
 
 # 🇩🇪 Deutsch
 ## Installieren
